@@ -1,0 +1,21 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+
+  }
+
+  th,td{
+
+    padding: 10px;
+    text-align: center;
+    border:1px solid #ccc;
+
+  }
+
+  p{
+      padding:20px;
+      border:1px solid #ccc;
+  }
+  .oculto{
+      display:none;
+  }
