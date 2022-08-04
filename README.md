@@ -26,7 +26,7 @@ Ambas são usadas ao lado do servidor, dizem que o PHP é mais estável e fácil
 mas, com o NODE construimos aplicativos dinamicos de pagina unica.
 
 
-**************************************************************//////******************************************************************
+//////////////////////////////
 
 After receiving a question in the tech interview, and I couldn't answer, I decided to do "hands on", practice and research. 
 
